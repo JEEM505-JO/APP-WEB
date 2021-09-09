@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="description" content="Generated q" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+ 
       <main className={styles.main}>
         <h1 className={styles.title}>
           Bienvenido a <a href="https://nextjs.org">NICARAGUA.js!</a>
